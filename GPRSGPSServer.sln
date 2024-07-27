@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPRSGPSServer", "GPRSGPSServer\GPRSGPSServer.csproj", "{1A0DD571-347B-41E0-A95B-646F078E1654}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VyshnaviD(OBD-8501)", "..\VyshnaviD(OBD-8501)\VyshnaviD(OBD-8501).vdproj", "{120D2832-D8F6-4571-9462-FF66178D311D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VyshnaviD-OBD8501.1", "VyshnaviD-OBD8501.1\VyshnaviD-OBD8501.1.vdproj", "{EBF0301F-CDCA-4F15-B29F-D045BC68EE3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A0DD571-347B-41E0-A95B-646F078E1654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0DD571-347B-41E0-A95B-646F078E1654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0DD571-347B-41E0-A95B-646F078E1654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0DD571-347B-41E0-A95B-646F078E1654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{120D2832-D8F6-4571-9462-FF66178D311D}.Debug|Any CPU.ActiveCfg = Debug
+		{120D2832-D8F6-4571-9462-FF66178D311D}.Release|Any CPU.ActiveCfg = Release
+		{EBF0301F-CDCA-4F15-B29F-D045BC68EE3A}.Debug|Any CPU.ActiveCfg = Debug
+		{EBF0301F-CDCA-4F15-B29F-D045BC68EE3A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,105 @@
+C:\Documents and Settings\Administrator\Desktop\SMSapplication\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\SMSapplication\SMSLibrary\bin\Debug\SMSLibrary.dll
+C:\Documents and Settings\Administrator\Desktop\SMSapplication\SMSLibrary\bin\Debug\SMSLibrary.pdb
+C:\Documents and Settings\Administrator\Desktop\SMSapplication\SMSLibrary\obj\Debug\SMSLibrary.dll
+C:\Documents and Settings\Administrator\Desktop\SMSapplication\SMSLibrary\obj\Debug\SMSLibrary.pdb
+E:\SMS Application Trial\SMSLibrary\bin\Debug\SMSLibrary.dll
+E:\SMS Application Trial\SMSLibrary\bin\Debug\SMSLibrary.pdb
+E:\SMS Application Trial\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\SMS Application Trial\SMSLibrary\obj\Debug\SMSLibrary.dll
+E:\SMS Application Trial\SMSLibrary\obj\Debug\SMSLibrary.pdb
+E:\Projects\2-4-2010\SMS Application Trial\SMSLibrary\bin\Debug\SMSLibrary.dll
+E:\Projects\2-4-2010\SMS Application Trial\SMSLibrary\bin\Debug\SMSLibrary.pdb
+E:\Projects\2-4-2010\SMS Application Trial\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\2-4-2010\SMS Application Trial\SMSLibrary\obj\Debug\SMSLibrary.dll
+E:\Projects\2-4-2010\SMS Application Trial\SMSLibrary\obj\Debug\SMSLibrary.pdb
+E:\sgr\Projects1\SMS Application Trial 0.1\SMSLibrary\bin\Debug\SMSLibrary.dll
+E:\sgr\Projects1\SMS Application Trial 0.1\SMSLibrary\bin\Debug\SMSLibrary.pdb
+E:\sgr\Projects1\SMS Application Trial 0.1\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\sgr\Projects1\SMS Application Trial 0.1\SMSLibrary\obj\Debug\SMSLibrary.dll
+E:\sgr\Projects1\SMS Application Trial 0.1\SMSLibrary\obj\Debug\SMSLibrary.pdb
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.8\SMSLibrary\bin\Debug\SMSLibrary.dll
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.8\SMSLibrary\bin\Debug\SMSLibrary.pdb
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.8\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.8\SMSLibrary\obj\Debug\SMSLibrary.dll
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.8\SMSLibrary\obj\Debug\SMSLibrary.pdb
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.9\SMSLibrary\bin\Debug\SMSLibrary.dll
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.9\SMSLibrary\bin\Debug\SMSLibrary.pdb
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.9\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.9\SMSLibrary\obj\Debug\SMSLibrary.dll
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.9\SMSLibrary\obj\Debug\SMSLibrary.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v7\SMSLibrary\bin\Debug\SMSLibrary.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v7\SMSLibrary\bin\Debug\SMSLibrary.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v7\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v7\SMSLibrary\obj\Debug\SMSLibrary.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v7\SMSLibrary\obj\Debug\SMSLibrary.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v9\SMSLibrary\bin\Debug\SMSLibrary.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v9\SMSLibrary\bin\Debug\SMSLibrary.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v9\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v9\SMSLibrary\obj\Debug\SMSLibrary.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v9\SMSLibrary\obj\Debug\SMSLibrary.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v10\SMSLibrary\bin\Debug\SMSLibrary.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v10\SMSLibrary\bin\Debug\SMSLibrary.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v10\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v10\SMSLibrary\obj\Debug\SMSLibrary.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v10\SMSLibrary\obj\Debug\SMSLibrary.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v12\SMSLibrary\bin\Debug\SMSLibrary.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v12\SMSLibrary\bin\Debug\SMSLibrary.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v12\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v12\SMSLibrary\obj\Debug\SMSLibrary.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v12\SMSLibrary\obj\Debug\SMSLibrary.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v12\SMSLibrary\bin\Debug\SMSLibrary.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v12\SMSLibrary\bin\Debug\SMSLibrary.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v12\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v12\SMSLibrary\obj\Debug\SMSLibrary.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v12\SMSLibrary\obj\Debug\SMSLibrary.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v15\SMSLibrary\bin\Debug\SMSLibrary.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v15\SMSLibrary\bin\Debug\SMSLibrary.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v15\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v15\SMSLibrary\obj\Debug\SMSLibrary.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v15\SMSLibrary\obj\Debug\SMSLibrary.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v16\SMSLibrary\bin\Debug\SMSLibrary.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v16\SMSLibrary\bin\Debug\SMSLibrary.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v16\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v16\SMSLibrary\obj\Debug\SMSLibrary.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v16\SMSLibrary\obj\Debug\SMSLibrary.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v17\SMSLibrary\bin\Debug\SMSLibrary.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v17\SMSLibrary\bin\Debug\SMSLibrary.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v17\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v17\SMSLibrary\obj\Debug\SMSLibrary.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v17\SMSLibrary\obj\Debug\SMSLibrary.pdb
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v17\SMSLibrary\bin\Debug\SMSLibrary.dll
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v17\SMSLibrary\bin\Debug\SMSLibrary.pdb
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v17\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v17\SMSLibrary\obj\Debug\SMSLibrary.dll
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v17\SMSLibrary\obj\Debug\SMSLibrary.pdb
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v19 for testing all deices\SMSLibrary\bin\Debug\SMSLibrary.dll
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v19 for testing all deices\SMSLibrary\bin\Debug\SMSLibrary.pdb
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v19 for testing all deices\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v19 for testing all deices\SMSLibrary\obj\Debug\SMSLibrary.dll
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v19 for testing all deices\SMSLibrary\obj\Debug\SMSLibrary.pdb
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for testing all deices\SMSLibrary\bin\Debug\SMSLibrary.dll
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for testing all deices\SMSLibrary\bin\Debug\SMSLibrary.pdb
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for testing all deices\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for testing all deices\SMSLibrary\obj\Debug\SMSLibrary.dll
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for testing all deices\SMSLibrary\obj\Debug\SMSLibrary.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380\SMSLibrary\bin\Debug\SMSLibrary.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380\SMSLibrary\bin\Debug\SMSLibrary.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380\SMSLibrary\obj\Debug\SMSLibrary.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380\SMSLibrary\obj\Debug\SMSLibrary.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor 0.1\SMSLibrary\bin\Debug\SMSLibrary.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor 0.1\SMSLibrary\bin\Debug\SMSLibrary.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor 0.1\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor 0.1\SMSLibrary\obj\Debug\SMSLibrary.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor 0.1\SMSLibrary\obj\Debug\SMSLibrary.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor test\SMSLibrary\bin\Debug\SMSLibrary.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor test\SMSLibrary\bin\Debug\SMSLibrary.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor test\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor test\SMSLibrary\obj\Debug\SMSLibrary.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor test\SMSLibrary\obj\Debug\SMSLibrary.pdb
+D:\GPSServer\29-1-2012\GPSGPRS Server 380\SMSLibrary\bin\Debug\SMSLibrary.dll
+D:\GPSServer\29-1-2012\GPSGPRS Server 380\SMSLibrary\bin\Debug\SMSLibrary.pdb
+D:\GPSServer\29-1-2012\GPSGPRS Server 380\SMSLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\GPSServer\29-1-2012\GPSGPRS Server 380\SMSLibrary\obj\Debug\SMSLibrary.dll
+D:\GPSServer\29-1-2012\GPSGPRS Server 380\SMSLibrary\obj\Debug\SMSLibrary.pdb

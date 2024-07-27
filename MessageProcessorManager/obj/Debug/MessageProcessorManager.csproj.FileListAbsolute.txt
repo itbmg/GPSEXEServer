@@ -1,0 +1,404 @@
+E:\Projects\MessageProcessorManager\bin\Debug\HomeSecurityDB.mdf
+E:\Projects\MessageProcessorManager\bin\Debug\HomeSecurityDB_log.ldf
+E:\Projects\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll.config
+E:\Projects\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+E:\Projects\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+E:\Projects\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+E:\Projects\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+E:\SMS Application Trial\MessageProcessorManager\bin\Debug\HomeSecurityDB.mdf
+E:\SMS Application Trial\MessageProcessorManager\bin\Debug\HomeSecurityDB_log.ldf
+E:\SMS Application Trial\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll.config
+E:\SMS Application Trial\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+E:\SMS Application Trial\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+E:\SMS Application Trial\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+E:\SMS Application Trial\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+E:\SMS Application Trial\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+E:\SMS Application Trial\MessageProcessorManager\bin\Debug\SecurityCommandsLibrary.dll
+E:\SMS Application Trial\MessageProcessorManager\bin\Debug\SecurityCommandsLibrary.pdb
+E:\SMS Application Trial\MessageProcessorManager\bin\Debug\SMSLibrary.dll
+E:\SMS Application Trial\MessageProcessorManager\bin\Debug\SMSLibrary.pdb
+E:\Projects\2-4-2010\SMS Application Trial\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\2-4-2010\SMS Application Trial\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+E:\sgr\Projects1\SMS Application Trial 0.1\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+E:\sgr\Projects1\Under Develop\Security System\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+E:\sgr\Projects1\Under Develop\Security System\MessageProcessorManager\bin\Debug\HomeSecurityDB.mdf
+E:\sgr\Projects1\Under Develop\Security System\MessageProcessorManager\bin\Debug\HomeSecurityDB_log.ldf
+E:\sgr\Projects1\Under Develop\Security System\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll.config
+E:\sgr\Projects1\Under Develop\Security System\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+E:\sgr\Projects1\Under Develop\Security System\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+E:\sgr\Projects1\Under Develop\Security System\MessageProcessorManager\bin\Debug\SecurityGateway.dll
+E:\sgr\Projects1\Under Develop\Security System\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+E:\sgr\Projects1\Under Develop\Security System\MessageProcessorManager\bin\Debug\SecurityGateway.pdb
+E:\sgr\Projects1\Under Develop\Security System\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+E:\sgr\Projects1\Under Develop\Security System\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+E:\sgr\Projects1\Under Develop\Security System\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+E:\sgr\Projects1\Under Develop\Security System\MessageProcessorManager\bin\Debug\HouseSettings.dll
+E:\sgr\Projects1\Under Develop\Security System\MessageProcessorManager\bin\Debug\HouseSettings.pdb
+E:\sgr\Projects1\Under Develop\Security System Server 0.0.1\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+E:\sgr\Projects1\Under Develop\Security System Server 0.0.1\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\HomeSecurityDB.mdf
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\HomeSecurityDB_log.ldf
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll.config
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\HouseSettings.dll
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\SecurityGateway.dll
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\SecurityGateway.pdb
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\HouseSettings.pdb
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+E:\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\HomeSecurityDB.mdf
+E:\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\HomeSecurityDB_log.ldf
+E:\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll.config
+E:\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+E:\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+E:\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\HouseSettings.dll
+E:\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\SecurityGateway.dll
+E:\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+E:\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\SecurityGateway.pdb
+E:\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+E:\Security System Server 0.0.1\MessageProcessorManager\bin\Debug\HouseSettings.pdb
+E:\Security System Server 0.0.1\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+E:\Security System Server 0.0.1\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+E:\Security System Server 0.0.1\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+D:\Security System Server\MessageProcessorManager\bin\Debug\HomeSecurityDB.mdf
+D:\Security System Server\MessageProcessorManager\bin\Debug\HomeSecurityDB_log.ldf
+D:\Security System Server\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll.config
+D:\Security System Server\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+D:\Security System Server\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+D:\Security System Server\MessageProcessorManager\bin\Debug\HouseSettings.dll
+D:\Security System Server\MessageProcessorManager\bin\Debug\SecurityGateway.dll
+D:\Security System Server\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+D:\Security System Server\MessageProcessorManager\bin\Debug\SecurityGateway.pdb
+D:\Security System Server\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+D:\Security System Server\MessageProcessorManager\bin\Debug\HouseSettings.pdb
+D:\Security System Server\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Security System Server\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+D:\Security System Server\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+D:\Lighting Server\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Lighting Server\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+D:\Lighting Server\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+D:\Lighting Server\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+D:\Lighting Server\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+D:\Lighting Server\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+D:\Lighting Server\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+D:\all projects\Lighting Server\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+D:\all projects\Lighting Server\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+D:\all projects\Lighting Server\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+D:\all projects\Lighting Server\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+D:\all projects\Lighting Server\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+D:\all projects\Lighting Server\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+D:\all projects\Lighting Server\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\GPRS Server\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\GPRS Server\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\GPRS Server\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+D:\Sagar\GPRS COMM\GPRS Server\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+D:\Sagar\GPRS COMM\GPRS Server\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Sagar\GPRS COMM\GPRS Server\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\GPRS Server\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\GPSGPRS Server\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\GPSGPRS Server\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\GPSGPRS Server\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+D:\Sagar\GPRS COMM\GPSGPRS Server\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+D:\Sagar\GPRS COMM\GPSGPRS Server\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Sagar\GPRS COMM\GPSGPRS Server\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\GPSGPRS Server\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+C:\Users\Sagar\Desktop\GPSGPRS Server\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+C:\Users\Sagar\Desktop\GPSGPRS Server\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+C:\Users\Sagar\Desktop\GPSGPRS Server\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+C:\Users\Sagar\Desktop\GPSGPRS Server\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+C:\Users\Sagar\Desktop\GPSGPRS Server\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sagar\Desktop\GPSGPRS Server\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+C:\Users\Sagar\Desktop\GPSGPRS Server\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+E:\Sagar\GPSGPRS Server\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+E:\Sagar\GPSGPRS Server\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+E:\Sagar\GPSGPRS Server\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+E:\Sagar\GPSGPRS Server\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+E:\Sagar\GPSGPRS Server\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+E:\Sagar\GPSGPRS Server\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+E:\Sagar\GPSGPRS Server\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 380\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 380\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 380\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 380\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 380\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 380\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 380\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 380 - Copy\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 380 - Copy\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 380 - Copy\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 380 - Copy\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 380 - Copy\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 380 - Copy\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 380 - Copy\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v1\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v1\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v1\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v1\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v1\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v1\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v1\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v1\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v1\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v2\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v2\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v2\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v2\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v2\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v2\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v2\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v2\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v2\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v3\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v3\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v3\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v3\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v3\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v3\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v3\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v3\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v3\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v4\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v4\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v4\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v4\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v4\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v4\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v4\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v4\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\implemented\GPSGPRS Server - 310 & 380 v4\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPSGPRS Server - 310 & 380 v4\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+D:\Sagar\GPSGPRS Server - 310 & 380 v4\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPSGPRS Server - 310 & 380 v4\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+D:\Sagar\GPSGPRS Server - 310 & 380 v4\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+D:\Sagar\GPSGPRS Server - 310 & 380 v4\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+D:\Sagar\GPSGPRS Server - 310 & 380 v4\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+D:\Sagar\GPSGPRS Server - 310 & 380 v4\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Sagar\GPSGPRS Server - 310 & 380 v4\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+D:\Sagar\GPSGPRS Server - 310 & 380 v4\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+E:\Sagar\implemented\GPSGPRS Server - 310 & 380 v6\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+E:\Sagar\implemented\GPSGPRS Server - 310 & 380 v6\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+E:\Sagar\implemented\GPSGPRS Server - 310 & 380 v6\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+E:\Sagar\implemented\GPSGPRS Server - 310 & 380 v6\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+E:\Sagar\implemented\GPSGPRS Server - 310 & 380 v6\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+E:\Sagar\implemented\GPSGPRS Server - 310 & 380 v6\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+E:\Sagar\implemented\GPSGPRS Server - 310 & 380 v6\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+E:\Sagar\implemented\GPSGPRS Server - 310 & 380 v6\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+E:\Sagar\implemented\GPSGPRS Server - 310 & 380 v6\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v6\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v6\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v6\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v6\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v6\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v6\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v6\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v6\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v6\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v7\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v7\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v7\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v7\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v7\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v7\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v7\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v7\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v7\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v9\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v9\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v9\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v9\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v9\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v9\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v9\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v9\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v9\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v10\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v10\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v10\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v10\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v10\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v10\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v10\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v10\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v10\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v10\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v10\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v12\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v15\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v15\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v15\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v15\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v15\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v15\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v15\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v15\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v15\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v15\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v15\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v16\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v16\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v16\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v16\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v16\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v16\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v16\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v16\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v16\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v16\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v16\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+E:\Sagar\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.dll
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.pdb
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v17\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.dll
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.pdb
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+C:\ASnTech Projects\GPS VT Server\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.dll
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.pdb
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for testing all deices\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.dll
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.pdb
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+C:\Users\Public\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor 0.1\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor 0.1\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor 0.1\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor 0.1\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor 0.1\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor 0.1\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor 0.1\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor 0.1\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor 0.1\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor 0.1\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor 0.1\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor test\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor test\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor test\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor test\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor test\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor test\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor test\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor test\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor test\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor test\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+C:\ASnTech's projects\GPS Server\GPSGPRS Server - 310 & 380 v19 for 380 - mulkhanoor test\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb
+D:\GPSServer\29-1-2012\GPSGPRS Server 380\MessageProcessorManager\bin\Debug\MessageProcessorManager.dll
+D:\GPSServer\29-1-2012\GPSGPRS Server 380\MessageProcessorManager\bin\Debug\MessageProcessorManager.pdb
+D:\GPSServer\29-1-2012\GPSGPRS Server 380\MessageProcessorManager\bin\Debug\TCPServerLibrary.dll
+D:\GPSServer\29-1-2012\GPSGPRS Server 380\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.dll
+D:\GPSServer\29-1-2012\GPSGPRS Server 380\MessageProcessorManager\bin\Debug\VehicleDBClass.dll
+D:\GPSServer\29-1-2012\GPSGPRS Server 380\MessageProcessorManager\bin\Debug\TCPServerLibrary.pdb
+D:\GPSServer\29-1-2012\GPSGPRS Server 380\MessageProcessorManager\bin\Debug\VehicleASnTechDbClass.pdb
+D:\GPSServer\29-1-2012\GPSGPRS Server 380\MessageProcessorManager\bin\Debug\VehicleDBClass.pdb
+D:\GPSServer\29-1-2012\GPSGPRS Server 380\MessageProcessorManager\obj\Debug\ResolveAssemblyReference.cache
+D:\GPSServer\29-1-2012\GPSGPRS Server 380\MessageProcessorManager\obj\Debug\MessageProcessorManager.dll
+D:\GPSServer\29-1-2012\GPSGPRS Server 380\MessageProcessorManager\obj\Debug\MessageProcessorManager.pdb

@@ -1,0 +1,37 @@
+D:\Dhass\GPS\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\bin\Debug\GPRSGPSServer_8830_11101.exe.config
+D:\Dhass\GPS\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\bin\Debug\GPRSGPSServer_8830_11101.exe
+D:\Dhass\GPS\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\bin\Debug\GPRSGPSServer_8830_11101.pdb
+D:\Dhass\GPS\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\SendmessageRcvMsg.Form1.resources
+D:\Dhass\GPS\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPSVehicleTrackingInterface.PairForm.resources
+D:\Dhass\GPS\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPSVehicleTrackingInterface.ParingFormFields.resources
+D:\Dhass\GPS\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPRSGPSServer.Properties.Resources.resources
+D:\Dhass\GPS\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPRSGPSServer.Recharge_Record.resources
+D:\Dhass\GPS\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPRSGPSServer.Rechargemgmt.resources
+D:\Dhass\GPS\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\SendmessageRcvMsg.SerialPort_Settings.resources
+D:\Dhass\GPS\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPSVehicleTrackingInterface.UserInformation.resources
+D:\Dhass\GPS\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPSVehicleTrackingInterface.UserInformationForm.resources
+D:\Dhass\GPS\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPRSGPSServer.csproj.GenerateResource.Cache
+D:\Dhass\GPS\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPRSGPSServer_8830_11101.exe
+D:\Dhass\GPS\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPRSGPSServer_8830_11101.pdb
+D:\Dhass\GPS\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPRSGPSServer.csprojResolveAssemblyReference.cache
+D:\Dhass\Running Source\GPS\EXE\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\bin\Debug\GPRSGPSServer_8830_11101.exe.config
+D:\Dhass\Running Source\GPS\EXE\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPRSGPSServer_8830_11101.exe
+D:\Dhass\Running Source\GPS\EXE\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPRSGPSServer_8830_11101.pdb
+D:\Dhass\Running Source\GPS\EXE\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\bin\Debug\GPRSGPSServer_8830_11101.exe
+D:\Dhass\Running Source\GPS\EXE\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\bin\Debug\GPRSGPSServer_8830_11101.pdb
+D:\Dhass\Running Source\GPS\EXE\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\SendmessageRcvMsg.Form1.resources
+D:\Dhass\Running Source\GPS\EXE\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPSVehicleTrackingInterface.PairForm.resources
+D:\Dhass\Running Source\GPS\EXE\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPSVehicleTrackingInterface.ParingFormFields.resources
+D:\Dhass\Running Source\GPS\EXE\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPRSGPSServer.Properties.Resources.resources
+D:\Dhass\Running Source\GPS\EXE\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPRSGPSServer.Recharge_Record.resources
+D:\Dhass\Running Source\GPS\EXE\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPRSGPSServer.Rechargemgmt.resources
+D:\Dhass\Running Source\GPS\EXE\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\SendmessageRcvMsg.SerialPort_Settings.resources
+D:\Dhass\Running Source\GPS\EXE\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPSVehicleTrackingInterface.UserInformation.resources
+D:\Dhass\Running Source\GPS\EXE\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPSVehicleTrackingInterface.UserInformationForm.resources
+D:\Dhass\Running Source\GPS\EXE\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPRSGPSServer.csproj.GenerateResource.Cache
+C:\Users\SushmaRavindar\Source\Repos\itbmg\GPS EXE Solutions\GPS\Exe backup\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\bin\Debug\GPRSGPSServer_8830_11101.exe.config
+C:\Users\SushmaRavindar\Source\Repos\itbmg\GPS EXE Solutions\GPS\Exe backup\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPRSGPSServer_8830_11101.exe
+C:\Users\SushmaRavindar\Source\Repos\itbmg\GPS EXE Solutions\GPS\Exe backup\GT06N-OBD\GPSGPRS Server W803 0.04 pro - Cont Conn\GPRSGPSServer\obj\Debug\GPRSGPSServer_8830_11101.pdb
+C:\Users\SushmaRavindar\Source\Repos\itbmg\GPSEXEServer\GPRSGPSServer\bin\Debug\GPRSGPSServer_8830_11101.exe.config
+C:\Users\SushmaRavindar\Source\Repos\itbmg\GPSEXEServer\GPRSGPSServer\obj\Debug\GPRSGPSServer_8830_11101.exe
+C:\Users\SushmaRavindar\Source\Repos\itbmg\GPSEXEServer\GPRSGPSServer\obj\Debug\GPRSGPSServer_8830_11101.pdb

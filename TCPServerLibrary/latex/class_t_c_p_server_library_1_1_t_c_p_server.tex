@@ -1,0 +1,169 @@
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server}{
+\section{TCPServerLibrary.TCPServer Class Reference}
+\label{class_t_c_p_server_library_1_1_t_c_p_server}\index{TCPServerLibrary::TCPServer@{TCPServerLibrary::TCPServer}}
+}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_aca05a74f244dbc0988179eda7c24c68f}{
+{\bfseries TCPServer} (IPAddress ip, int \_\-MaxNoOfConnections)}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_aca05a74f244dbc0988179eda7c24c68f}
+
+\item 
+int \hyperlink{class_t_c_p_server_library_1_1_t_c_p_server_aa826da2fbc53ac9b87d5ea410fca7f4d}{GetCountOfConnectedClients} ()
+\begin{DoxyCompactList}\small\item\em Method to get the count of the connections. \item\end{DoxyCompactList}\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_afff178cf95a07e1372aee411b49f6b0d}{
+bool {\bfseries StartListening} ()}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_afff178cf95a07e1372aee411b49f6b0d}
+
+\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_a8103bc134bf9f7e865a8bb1c68e1ec51}{
+void {\bfseries KeepListening} ()}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_a8103bc134bf9f7e865a8bb1c68e1ec51}
+
+\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_a6076e98d1f9940f4ec5f8af7fdbbb4b4}{
+bool {\bfseries StopListening} ()}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_a6076e98d1f9940f4ec5f8af7fdbbb4b4}
+
+\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_a3466694837dbb004af327ce4e2fb6972}{
+void {\bfseries Shutdown} ()}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_a3466694837dbb004af327ce4e2fb6972}
+
+\end{DoxyCompactItemize}
+\subsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_a27a7ca9b3f0fe4a1a9b36eeab3570f2b}{
+static void {\bfseries AddClient} (TcpClient client, string clientName)}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_a27a7ca9b3f0fe4a1a9b36eeab3570f2b}
+
+\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_a4850f94a7916d1974db988f3a5c61e81}{
+static void {\bfseries RemoveClient} (TcpClient client)}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_a4850f94a7916d1974db988f3a5c61e81}
+
+\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_accfc4c76cfdb7a3673721a3be08142be}{
+static void {\bfseries OnStatusChanged} (\hyperlink{class_t_c_p_server_library_1_1_status_changed_event_args}{StatusChangedEventArgs} evt)}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_accfc4c76cfdb7a3673721a3be08142be}
+
+\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_ae0d0c1faa70a43a22eeb65c196eda5e3}{
+static void {\bfseries SendAdminMessage} (string message)}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_ae0d0c1faa70a43a22eeb65c196eda5e3}
+
+\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_a1058a09f921244ccb755f1c26fc83e12}{
+static void {\bfseries SendMessage} (string From, string Message)}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_a1058a09f921244ccb755f1c26fc83e12}
+
+\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_a6da75375654466ceb90af8970e07a77f}{
+static void {\bfseries SendMessageTo} (string clientName, string Message)}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_a6da75375654466ceb90af8970e07a77f}
+
+\end{DoxyCompactItemize}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_acb48feea47330b1333bf14802f009565}{
+Thread {\bfseries listener\_\-Thread}}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_acb48feea47330b1333bf14802f009565}
+
+\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_ae21458ec8ee3fc5f0f7c3abfff5e6dae}{
+bool {\bfseries isRunning} = false}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_ae21458ec8ee3fc5f0f7c3abfff5e6dae}
+
+\end{DoxyCompactItemize}
+\subsection*{Static Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_a740a528064d20e7408f500df6ad75a00}{
+static Hashtable {\bfseries hashTable\_\-Users} = new Hashtable(MaxNoOfConnections)}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_a740a528064d20e7408f500df6ad75a00}
+
+\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_a315a8ecaa3eed6c57d34cdad56aeae44}{
+static Hashtable {\bfseries hashTable\_\-Connections} = new Hashtable(MaxNoOfConnections)}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_a315a8ecaa3eed6c57d34cdad56aeae44}
+
+\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_a5bdf0d0b679125255e521adced6da3af}{
+static Hashtable {\bfseries hashClientConnections} = new Hashtable(MaxNoOfConnections)}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_a5bdf0d0b679125255e521adced6da3af}
+
+\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_a55ca89afdd28c50035d6e71665707a25}{
+static bool {\bfseries IsRunning} = false}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_a55ca89afdd28c50035d6e71665707a25}
+
+\end{DoxyCompactItemize}
+\subsection*{Properties}
+\begin{DoxyCompactItemize}
+\item 
+IPAddress \hyperlink{class_t_c_p_server_library_1_1_t_c_p_server_a467ff186f80228c8caf623ebbf295f96}{ipAddress}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\begin{DoxyCompactList}\small\item\em Property to set the IPAddress of Tcp Server. \item\end{DoxyCompactList}\item 
+int \hyperlink{class_t_c_p_server_library_1_1_t_c_p_server_a505fbf9bb8faf9bcfb696a219c356a65}{serverPortNo}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}
+\begin{DoxyCompactList}\small\item\em Property to set the ServerPortNo. \item\end{DoxyCompactList}\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_adec2a1a2be8224f79a7b8be44cdd3994}{
+static int {\bfseries MaxNoOfConnections}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_adec2a1a2be8224f79a7b8be44cdd3994}
+
+\end{DoxyCompactItemize}
+\subsection*{Events}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_af5f9ca4402c2a7a3dfce32efc0682ea9}{
+static StatusChangedEventHandler {\bfseries StatusChanged}}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_af5f9ca4402c2a7a3dfce32efc0682ea9}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+
+
+Definition at line 52 of file TCPServerLibrary.cs.
+
+\subsection{Member Function Documentation}
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_aa826da2fbc53ac9b87d5ea410fca7f4d}{
+\index{TCPServerLibrary::TCPServer@{TCPServerLibrary::TCPServer}!GetCountOfConnectedClients@{GetCountOfConnectedClients}}
+\index{GetCountOfConnectedClients@{GetCountOfConnectedClients}!TCPServerLibrary::TCPServer@{TCPServerLibrary::TCPServer}}
+\subsubsection[{GetCountOfConnectedClients}]{\setlength{\rightskip}{0pt plus 5cm}int TCPServerLibrary.TCPServer.GetCountOfConnectedClients ()}}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_aa826da2fbc53ac9b87d5ea410fca7f4d}
+
+
+Method to get the count of the connections. \begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+
+
+Definition at line 140 of file TCPServerLibrary.cs.
+
+\subsection{Property Documentation}
+\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_a467ff186f80228c8caf623ebbf295f96}{
+\index{TCPServerLibrary::TCPServer@{TCPServerLibrary::TCPServer}!ipAddress@{ipAddress}}
+\index{ipAddress@{ipAddress}!TCPServerLibrary::TCPServer@{TCPServerLibrary::TCPServer}}
+\subsubsection[{ipAddress}]{\setlength{\rightskip}{0pt plus 5cm}IPAddress TCPServerLibrary.TCPServer.ipAddress\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}}}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_a467ff186f80228c8caf623ebbf295f96}
+
+
+Property to set the IPAddress of Tcp Server. 
+
+Definition at line 61 of file TCPServerLibrary.cs.\hypertarget{class_t_c_p_server_library_1_1_t_c_p_server_a505fbf9bb8faf9bcfb696a219c356a65}{
+\index{TCPServerLibrary::TCPServer@{TCPServerLibrary::TCPServer}!serverPortNo@{serverPortNo}}
+\index{serverPortNo@{serverPortNo}!TCPServerLibrary::TCPServer@{TCPServerLibrary::TCPServer}}
+\subsubsection[{serverPortNo}]{\setlength{\rightskip}{0pt plus 5cm}int TCPServerLibrary.TCPServer.serverPortNo\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}}}
+\label{class_t_c_p_server_library_1_1_t_c_p_server_a505fbf9bb8faf9bcfb696a219c356a65}
+
+
+Property to set the ServerPortNo. 
+
+Definition at line 67 of file TCPServerLibrary.cs.
+
+The documentation for this class was generated from the following file:\begin{DoxyCompactItemize}
+\item 
+E:/my.net work/10-\/10-\/09/MyServer/TCPServerLibrary/TCPServerLibrary.cs\end{DoxyCompactItemize}

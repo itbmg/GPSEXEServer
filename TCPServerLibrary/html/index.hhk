@@ -1,0 +1,195 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a808977357a2a58497532ee3cfa9c1d83"><param name="Name" value="AddClient"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a808977357a2a58497532ee3cfa9c1d83"><param name="Name" value="ServerLibrary::TCPServer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a27a7ca9b3f0fe4a1a9b36eeab3570f2b"><param name="Name" value="TCPServerLibrary::TCPServer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_connection.html#af3d8a76a88a6ced7d799ace3d91459c2"><param name="Name" value="CloseConnection"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_connection.html#af3d8a76a88a6ced7d799ace3d91459c2"><param name="Name" value="ServerLibrary::Connection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_connection.html#aee78582949de5a4118f2bec8a42b4b20"><param name="Name" value="TCPServerLibrary::Connection"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_connection.html#a0468838cdaae95012c75a0a2992dbce4"><param name="Name" value="Connection"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_connection.html#a0468838cdaae95012c75a0a2992dbce4"><param name="Name" value="ServerLibrary::Connection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_connection.html#a60a33d03f73fdffcd8dcb2936b980bcb"><param name="Name" value="TCPServerLibrary::Connection"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_status_changed_event_args.html#a2688a86acf251c6f1c209a03a27cbccb"><param name="Name" value="EventMessage"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_status_changed_event_args.html#a2688a86acf251c6f1c209a03a27cbccb"><param name="Name" value="ServerLibrary::StatusChangedEventArgs"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_status_changed_event_args.html#a2c7aafa4086078155760142fbfbc79f5"><param name="Name" value="TCPServerLibrary::StatusChangedEventArgs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#aa826da2fbc53ac9b87d5ea410fca7f4d"><param name="Name" value="GetCountOfConnectedClients"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a9109c1cf690b57bda767cd5c8a4977dd"><param name="Name" value="getCurrentTimeStamp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#aa08548525320a44ad7180030365042b7"><param name="Name" value="getLocalIPNPortDetails"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a3f22db079ae4644438117c74fb3e8b99"><param name="Name" value="getRemoteIpNPortDetails"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#af8f27276c4b04597504dea3285dd6aa5"><param name="Name" value="hashClientConnections"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#af8f27276c4b04597504dea3285dd6aa5"><param name="Name" value="ServerLibrary::TCPServer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a5bdf0d0b679125255e521adced6da3af"><param name="Name" value="TCPServerLibrary::TCPServer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a8795135c3c26e6e2c1a3702e86d913df"><param name="Name" value="hashTable_Connections"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a8795135c3c26e6e2c1a3702e86d913df"><param name="Name" value="ServerLibrary::TCPServer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a315a8ecaa3eed6c57d34cdad56aeae44"><param name="Name" value="TCPServerLibrary::TCPServer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a78a9757b60b3e3749555ea2aa64798f5"><param name="Name" value="hashTable_Users"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a78a9757b60b3e3749555ea2aa64798f5"><param name="Name" value="ServerLibrary::TCPServer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a740a528064d20e7408f500df6ad75a00"><param name="Name" value="TCPServerLibrary::TCPServer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a7e78d54f0e221f109799681b9ddcc834"><param name="Name" value="ipAddress"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a7e78d54f0e221f109799681b9ddcc834"><param name="Name" value="ServerLibrary::TCPServer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a467ff186f80228c8caf623ebbf295f96"><param name="Name" value="TCPServerLibrary::TCPServer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#ad54e1c155c2122e6b59c7c107ce883d4"><param name="Name" value="IsRunning"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a916f5e9226e47af757726848c8693462"><param name="Name" value="isRunning"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a55ca89afdd28c50035d6e71665707a25"><param name="Name" value="IsRunning"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#ae21458ec8ee3fc5f0f7c3abfff5e6dae"><param name="Name" value="isRunning"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#aed031e376180538112b3b638827abd3a"><param name="Name" value="KeepListening"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#aed031e376180538112b3b638827abd3a"><param name="Name" value="ServerLibrary::TCPServer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a8103bc134bf9f7e865a8bb1c68e1ec51"><param name="Name" value="TCPServerLibrary::TCPServer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#aa338015aa3d159adf091a0849919ed67"><param name="Name" value="listener_Thread"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#aa338015aa3d159adf091a0849919ed67"><param name="Name" value="ServerLibrary::TCPServer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#acb48feea47330b1333bf14802f009565"><param name="Name" value="TCPServerLibrary::TCPServer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#adec2a1a2be8224f79a7b8be44cdd3994"><param name="Name" value="MaxNoOfConnections"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a846774398acee782e25f5bf92e077af8"><param name="Name" value="OnStatusChanged"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a846774398acee782e25f5bf92e077af8"><param name="Name" value="ServerLibrary::TCPServer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#accfc4c76cfdb7a3673721a3be08142be"><param name="Name" value="TCPServerLibrary::TCPServer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a9636dbd48a5c7dc85acd1e84d88c7c88"><param name="Name" value="portNo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#aa276a2fcf2aa45d51eb3aaeac4bb2b3f"><param name="Name" value="RemoveClient"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#aa276a2fcf2aa45d51eb3aaeac4bb2b3f"><param name="Name" value="ServerLibrary::TCPServer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a4850f94a7916d1974db988f3a5c61e81"><param name="Name" value="TCPServerLibrary::TCPServer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a9fa2fd8235edc929d641cd3ea1d4b1a9"><param name="Name" value="SendAdminMessage"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a9fa2fd8235edc929d641cd3ea1d4b1a9"><param name="Name" value="ServerLibrary::TCPServer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#ae0d0c1faa70a43a22eeb65c196eda5e3"><param name="Name" value="TCPServerLibrary::TCPServer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#ac37fb88ad987e61148a4438eda1f8560"><param name="Name" value="SendMessage"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#ac37fb88ad987e61148a4438eda1f8560"><param name="Name" value="ServerLibrary::TCPServer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a1058a09f921244ccb755f1c26fc83e12"><param name="Name" value="TCPServerLibrary::TCPServer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a6da75375654466ceb90af8970e07a77f"><param name="Name" value="SendMessageTo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_connection.html"><param name="Name" value="ServerLibrary::Connection"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_connection.html#af3d8a76a88a6ced7d799ace3d91459c2"><param name="Name" value="CloseConnection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_connection.html#a0468838cdaae95012c75a0a2992dbce4"><param name="Name" value="Connection"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_status_changed_event_args.html"><param name="Name" value="ServerLibrary::StatusChangedEventArgs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_status_changed_event_args.html#a2688a86acf251c6f1c209a03a27cbccb"><param name="Name" value="EventMessage"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_status_changed_event_args.html#a1351c9b2768bba0990b41621ba4bee09"><param name="Name" value="StatusChangedEventArgs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html"><param name="Name" value="ServerLibrary::TCPServer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a808977357a2a58497532ee3cfa9c1d83"><param name="Name" value="AddClient"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a9109c1cf690b57bda767cd5c8a4977dd"><param name="Name" value="getCurrentTimeStamp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#aa08548525320a44ad7180030365042b7"><param name="Name" value="getLocalIPNPortDetails"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a3f22db079ae4644438117c74fb3e8b99"><param name="Name" value="getRemoteIpNPortDetails"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#af8f27276c4b04597504dea3285dd6aa5"><param name="Name" value="hashClientConnections"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a8795135c3c26e6e2c1a3702e86d913df"><param name="Name" value="hashTable_Connections"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a78a9757b60b3e3749555ea2aa64798f5"><param name="Name" value="hashTable_Users"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a7e78d54f0e221f109799681b9ddcc834"><param name="Name" value="ipAddress"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#ad54e1c155c2122e6b59c7c107ce883d4"><param name="Name" value="IsRunning"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a916f5e9226e47af757726848c8693462"><param name="Name" value="isRunning"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#aed031e376180538112b3b638827abd3a"><param name="Name" value="KeepListening"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#aa338015aa3d159adf091a0849919ed67"><param name="Name" value="listener_Thread"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a846774398acee782e25f5bf92e077af8"><param name="Name" value="OnStatusChanged"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a9636dbd48a5c7dc85acd1e84d88c7c88"><param name="Name" value="portNo"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#aa276a2fcf2aa45d51eb3aaeac4bb2b3f"><param name="Name" value="RemoveClient"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a9fa2fd8235edc929d641cd3ea1d4b1a9"><param name="Name" value="SendAdminMessage"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#ac37fb88ad987e61148a4438eda1f8560"><param name="Name" value="SendMessage"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#ab5805edcb6a87de85827aee0b8cfc254"><param name="Name" value="Shutdown"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#abeb93a27ff1d1e3b5a61b6bd52c89cac"><param name="Name" value="socketForClient"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a237217c2bd9e71dc7ab4fb65861e7dc8"><param name="Name" value="StartListening"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a19b6edb773d047a4eb5438a937999584"><param name="Name" value="StatusChanged"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#aa11f7f5ab6dde97651ad8db8cd5181db"><param name="Name" value="StopListening"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a00ec31b4b7b684d95edb498111bdbbb7"><param name="Name" value="tcpListener"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a1f17f6dccfdffeb5ccc32670d49bf725"><param name="Name" value="TCPServer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a505fbf9bb8faf9bcfb696a219c356a65"><param name="Name" value="serverPortNo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#ab5805edcb6a87de85827aee0b8cfc254"><param name="Name" value="Shutdown"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#ab5805edcb6a87de85827aee0b8cfc254"><param name="Name" value="ServerLibrary::TCPServer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a3466694837dbb004af327ce4e2fb6972"><param name="Name" value="TCPServerLibrary::TCPServer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#abeb93a27ff1d1e3b5a61b6bd52c89cac"><param name="Name" value="socketForClient"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a237217c2bd9e71dc7ab4fb65861e7dc8"><param name="Name" value="StartListening"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a237217c2bd9e71dc7ab4fb65861e7dc8"><param name="Name" value="ServerLibrary::TCPServer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#afff178cf95a07e1372aee411b49f6b0d"><param name="Name" value="TCPServerLibrary::TCPServer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a19b6edb773d047a4eb5438a937999584"><param name="Name" value="StatusChanged"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a19b6edb773d047a4eb5438a937999584"><param name="Name" value="ServerLibrary::TCPServer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#af5f9ca4402c2a7a3dfce32efc0682ea9"><param name="Name" value="TCPServerLibrary::TCPServer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_status_changed_event_args.html#a1351c9b2768bba0990b41621ba4bee09"><param name="Name" value="StatusChangedEventArgs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_status_changed_event_args.html#a1351c9b2768bba0990b41621ba4bee09"><param name="Name" value="ServerLibrary::StatusChangedEventArgs"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_status_changed_event_args.html#ad146bf24d98b1c3d10204a774f61df7e"><param name="Name" value="TCPServerLibrary::StatusChangedEventArgs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#aa11f7f5ab6dde97651ad8db8cd5181db"><param name="Name" value="StopListening"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#aa11f7f5ab6dde97651ad8db8cd5181db"><param name="Name" value="ServerLibrary::TCPServer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a6076e98d1f9940f4ec5f8af7fdbbb4b4"><param name="Name" value="TCPServerLibrary::TCPServer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a00ec31b4b7b684d95edb498111bdbbb7"><param name="Name" value="tcpListener"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a1f17f6dccfdffeb5ccc32670d49bf725"><param name="Name" value="TCPServer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_library_1_1_t_c_p_server.html#a1f17f6dccfdffeb5ccc32670d49bf725"><param name="Name" value="ServerLibrary::TCPServer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#aca05a74f244dbc0988179eda7c24c68f"><param name="Name" value="TCPServerLibrary::TCPServer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_connection.html"><param name="Name" value="TCPServerLibrary::Connection"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_connection.html#aee78582949de5a4118f2bec8a42b4b20"><param name="Name" value="CloseConnection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_connection.html#a60a33d03f73fdffcd8dcb2936b980bcb"><param name="Name" value="Connection"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_status_changed_event_args.html"><param name="Name" value="TCPServerLibrary::StatusChangedEventArgs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_status_changed_event_args.html#a2c7aafa4086078155760142fbfbc79f5"><param name="Name" value="EventMessage"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_status_changed_event_args.html#ad146bf24d98b1c3d10204a774f61df7e"><param name="Name" value="StatusChangedEventArgs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html"><param name="Name" value="TCPServerLibrary::TCPServer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a27a7ca9b3f0fe4a1a9b36eeab3570f2b"><param name="Name" value="AddClient"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#aa826da2fbc53ac9b87d5ea410fca7f4d"><param name="Name" value="GetCountOfConnectedClients"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a5bdf0d0b679125255e521adced6da3af"><param name="Name" value="hashClientConnections"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a315a8ecaa3eed6c57d34cdad56aeae44"><param name="Name" value="hashTable_Connections"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a740a528064d20e7408f500df6ad75a00"><param name="Name" value="hashTable_Users"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a467ff186f80228c8caf623ebbf295f96"><param name="Name" value="ipAddress"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a55ca89afdd28c50035d6e71665707a25"><param name="Name" value="IsRunning"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#ae21458ec8ee3fc5f0f7c3abfff5e6dae"><param name="Name" value="isRunning"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a8103bc134bf9f7e865a8bb1c68e1ec51"><param name="Name" value="KeepListening"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#acb48feea47330b1333bf14802f009565"><param name="Name" value="listener_Thread"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#adec2a1a2be8224f79a7b8be44cdd3994"><param name="Name" value="MaxNoOfConnections"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#accfc4c76cfdb7a3673721a3be08142be"><param name="Name" value="OnStatusChanged"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a4850f94a7916d1974db988f3a5c61e81"><param name="Name" value="RemoveClient"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#ae0d0c1faa70a43a22eeb65c196eda5e3"><param name="Name" value="SendAdminMessage"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a1058a09f921244ccb755f1c26fc83e12"><param name="Name" value="SendMessage"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a6da75375654466ceb90af8970e07a77f"><param name="Name" value="SendMessageTo"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a505fbf9bb8faf9bcfb696a219c356a65"><param name="Name" value="serverPortNo"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a3466694837dbb004af327ce4e2fb6972"><param name="Name" value="Shutdown"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#afff178cf95a07e1372aee411b49f6b0d"><param name="Name" value="StartListening"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#af5f9ca4402c2a7a3dfce32efc0682ea9"><param name="Name" value="StatusChanged"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#a6076e98d1f9940f4ec5f8af7fdbbb4b4"><param name="Name" value="StopListening"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_t_c_p_server_library_1_1_t_c_p_server.html#aca05a74f244dbc0988179eda7c24c68f"><param name="Name" value="TCPServer"></OBJECT>
+  </UL>
+</UL>
+</BODY>
+</HTML>

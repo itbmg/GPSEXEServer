@@ -1,0 +1,152 @@
+\hypertarget{class_server_library_1_1_t_c_p_server}{
+\section{ServerLibrary.TCPServer Class Reference}
+\label{class_server_library_1_1_t_c_p_server}\index{ServerLibrary::TCPServer@{ServerLibrary::TCPServer}}
+}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_a1f17f6dccfdffeb5ccc32670d49bf725}{
+{\bfseries TCPServer} (IPAddress ip)}
+\label{class_server_library_1_1_t_c_p_server_a1f17f6dccfdffeb5ccc32670d49bf725}
+
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_a237217c2bd9e71dc7ab4fb65861e7dc8}{
+void {\bfseries StartListening} ()}
+\label{class_server_library_1_1_t_c_p_server_a237217c2bd9e71dc7ab4fb65861e7dc8}
+
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_aed031e376180538112b3b638827abd3a}{
+void {\bfseries KeepListening} ()}
+\label{class_server_library_1_1_t_c_p_server_aed031e376180538112b3b638827abd3a}
+
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_aa11f7f5ab6dde97651ad8db8cd5181db}{
+void {\bfseries StopListening} ()}
+\label{class_server_library_1_1_t_c_p_server_aa11f7f5ab6dde97651ad8db8cd5181db}
+
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_ab5805edcb6a87de85827aee0b8cfc254}{
+void {\bfseries Shutdown} ()}
+\label{class_server_library_1_1_t_c_p_server_ab5805edcb6a87de85827aee0b8cfc254}
+
+\end{DoxyCompactItemize}
+\subsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_a808977357a2a58497532ee3cfa9c1d83}{
+static void {\bfseries AddClient} (TcpClient client, string clientName)}
+\label{class_server_library_1_1_t_c_p_server_a808977357a2a58497532ee3cfa9c1d83}
+
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_aa276a2fcf2aa45d51eb3aaeac4bb2b3f}{
+static void {\bfseries RemoveClient} (TcpClient client)}
+\label{class_server_library_1_1_t_c_p_server_aa276a2fcf2aa45d51eb3aaeac4bb2b3f}
+
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_a9109c1cf690b57bda767cd5c8a4977dd}{
+static string {\bfseries getCurrentTimeStamp} ()}
+\label{class_server_library_1_1_t_c_p_server_a9109c1cf690b57bda767cd5c8a4977dd}
+
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_a3f22db079ae4644438117c74fb3e8b99}{
+static string {\bfseries getRemoteIpNPortDetails} (TcpClient client)}
+\label{class_server_library_1_1_t_c_p_server_a3f22db079ae4644438117c74fb3e8b99}
+
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_aa08548525320a44ad7180030365042b7}{
+static string {\bfseries getLocalIPNPortDetails} (TcpClient client)}
+\label{class_server_library_1_1_t_c_p_server_aa08548525320a44ad7180030365042b7}
+
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_a846774398acee782e25f5bf92e077af8}{
+static void {\bfseries OnStatusChanged} (\hyperlink{class_server_library_1_1_status_changed_event_args}{StatusChangedEventArgs} evt)}
+\label{class_server_library_1_1_t_c_p_server_a846774398acee782e25f5bf92e077af8}
+
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_a9fa2fd8235edc929d641cd3ea1d4b1a9}{
+static void {\bfseries SendAdminMessage} (string message)}
+\label{class_server_library_1_1_t_c_p_server_a9fa2fd8235edc929d641cd3ea1d4b1a9}
+
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_ac37fb88ad987e61148a4438eda1f8560}{
+static void {\bfseries SendMessage} (string From, string Message, TcpClient client)}
+\label{class_server_library_1_1_t_c_p_server_ac37fb88ad987e61148a4438eda1f8560}
+
+\end{DoxyCompactItemize}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_abeb93a27ff1d1e3b5a61b6bd52c89cac}{
+TcpClient {\bfseries socketForClient}}
+\label{class_server_library_1_1_t_c_p_server_abeb93a27ff1d1e3b5a61b6bd52c89cac}
+
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_a00ec31b4b7b684d95edb498111bdbbb7}{
+TcpListener {\bfseries tcpListener}}
+\label{class_server_library_1_1_t_c_p_server_a00ec31b4b7b684d95edb498111bdbbb7}
+
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_aa338015aa3d159adf091a0849919ed67}{
+Thread {\bfseries listener\_\-Thread}}
+\label{class_server_library_1_1_t_c_p_server_aa338015aa3d159adf091a0849919ed67}
+
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_a916f5e9226e47af757726848c8693462}{
+bool {\bfseries isRunning} = false}
+\label{class_server_library_1_1_t_c_p_server_a916f5e9226e47af757726848c8693462}
+
+\end{DoxyCompactItemize}
+\subsection*{Static Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_a78a9757b60b3e3749555ea2aa64798f5}{
+static Hashtable {\bfseries hashTable\_\-Users} = new Hashtable(5)}
+\label{class_server_library_1_1_t_c_p_server_a78a9757b60b3e3749555ea2aa64798f5}
+
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_a8795135c3c26e6e2c1a3702e86d913df}{
+static Hashtable {\bfseries hashTable\_\-Connections} = new Hashtable(5)}
+\label{class_server_library_1_1_t_c_p_server_a8795135c3c26e6e2c1a3702e86d913df}
+
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_af8f27276c4b04597504dea3285dd6aa5}{
+static Hashtable {\bfseries hashClientConnections} = new Hashtable(5)}
+\label{class_server_library_1_1_t_c_p_server_af8f27276c4b04597504dea3285dd6aa5}
+
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_ad54e1c155c2122e6b59c7c107ce883d4}{
+static bool {\bfseries IsRunning} = false}
+\label{class_server_library_1_1_t_c_p_server_ad54e1c155c2122e6b59c7c107ce883d4}
+
+\end{DoxyCompactItemize}
+\subsection*{Properties}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_a7e78d54f0e221f109799681b9ddcc834}{
+IPAddress {\bfseries ipAddress}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}}
+\label{class_server_library_1_1_t_c_p_server_a7e78d54f0e221f109799681b9ddcc834}
+
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_a9636dbd48a5c7dc85acd1e84d88c7c88}{
+int {\bfseries portNo}\hspace{0.3cm}{\ttfamily  \mbox{[}get, set\mbox{]}}}
+\label{class_server_library_1_1_t_c_p_server_a9636dbd48a5c7dc85acd1e84d88c7c88}
+
+\end{DoxyCompactItemize}
+\subsection*{Events}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{class_server_library_1_1_t_c_p_server_a19b6edb773d047a4eb5438a937999584}{
+static StatusChangedEventHandler {\bfseries StatusChanged}}
+\label{class_server_library_1_1_t_c_p_server_a19b6edb773d047a4eb5438a937999584}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+
+
+Definition at line 51 of file ServerLibrary.cs.
+
+The documentation for this class was generated from the following file:\begin{DoxyCompactItemize}
+\item 
+E:/my.net work/10-\/10-\/09/MyServer/TCPServerLibrary/ServerLibrary.cs\end{DoxyCompactItemize}

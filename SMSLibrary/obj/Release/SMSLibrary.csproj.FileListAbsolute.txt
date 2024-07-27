@@ -1,0 +1,20 @@
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.9\SMSLibrary\bin\Release\SMSLibrary.dll
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.9\SMSLibrary\bin\Release\SMSLibrary.pdb
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.9\SMSLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.9\SMSLibrary\obj\Release\SMSLibrary.dll
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.9\SMSLibrary\obj\Release\SMSLibrary.pdb
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.10\SMSLibrary\bin\Release\SMSLibrary.dll
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.10\SMSLibrary\bin\Release\SMSLibrary.pdb
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.10\SMSLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.10\SMSLibrary\obj\Release\SMSLibrary.dll
+D:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.10\SMSLibrary\obj\Release\SMSLibrary.pdb
+E:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.10\SMSLibrary\bin\Release\SMSLibrary.dll
+E:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.10\SMSLibrary\bin\Release\SMSLibrary.pdb
+E:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.10\SMSLibrary\obj\Release\ResolveAssemblyReference.cache
+E:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.10\SMSLibrary\obj\Release\SMSLibrary.dll
+E:\Sagar\Weighing bridge Software\Weighing Bridge Software  0.0.0.10\SMSLibrary\obj\Release\SMSLibrary.pdb
+C:\ASnTech's projects\Weighing bridge Software\Weighing Bridge Software  0.0.0.10\SMSLibrary\bin\Release\SMSLibrary.dll
+C:\ASnTech's projects\Weighing bridge Software\Weighing Bridge Software  0.0.0.10\SMSLibrary\bin\Release\SMSLibrary.pdb
+C:\ASnTech's projects\Weighing bridge Software\Weighing Bridge Software  0.0.0.10\SMSLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\ASnTech's projects\Weighing bridge Software\Weighing Bridge Software  0.0.0.10\SMSLibrary\obj\Release\SMSLibrary.dll
+C:\ASnTech's projects\Weighing bridge Software\Weighing Bridge Software  0.0.0.10\SMSLibrary\obj\Release\SMSLibrary.pdb
