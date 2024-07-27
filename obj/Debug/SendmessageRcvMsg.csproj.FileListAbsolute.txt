@@ -1,0 +1,30 @@
+E:\SMS Application Trial\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe.config
+E:\SMS Application Trial\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe
+E:\SMS Application Trial\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.pdb
+E:\SMS Application Trial\SendmessageRcvMsg\obj\Debug\ResolveAssemblyReference.cache
+E:\SMS Application Trial\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Form1.resources
+E:\SMS Application Trial\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Properties.Resources.resources
+E:\SMS Application Trial\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.csproj.GenerateResource.Cache
+E:\SMS Application Trial\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.exe
+E:\SMS Application Trial\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.pdb
+E:\SMS Application Trial\SendmessageRcvMsg\bin\Debug\HomeSecurityDB.mdf
+E:\SMS Application Trial\SendmessageRcvMsg\bin\Debug\HomeSecurityDB_log.ldf
+E:\SMS Application Trial\SendmessageRcvMsg\bin\Debug\MessageProcessorManager.dll
+E:\SMS Application Trial\SendmessageRcvMsg\bin\Debug\SecurityCommandsLibrary.dll
+E:\SMS Application Trial\SendmessageRcvMsg\bin\Debug\MessageProcessorManager.pdb
+E:\SMS Application Trial\SendmessageRcvMsg\bin\Debug\SecurityCommandsLibrary.pdb
+E:\SMS Application Trial\SendmessageRcvMsg\bin\Debug\SMSLibrary.dll
+E:\SMS Application Trial\SendmessageRcvMsg\bin\Debug\SMSLibrary.pdb
+E:\Projects\2-4-2010\SMS Application Trial\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe.config
+E:\Projects\2-4-2010\SMS Application Trial\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.exe
+E:\Projects\2-4-2010\SMS Application Trial\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.pdb
+E:\Projects\2-4-2010\SMS Application Trial\SendmessageRcvMsg\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\2-4-2010\SMS Application Trial\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Form1.resources
+E:\Projects\2-4-2010\SMS Application Trial\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Properties.Resources.resources
+E:\Projects\2-4-2010\SMS Application Trial\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.csproj.GenerateResource.Cache
+E:\sgr\Projects1\SMS Application Trial 0.1\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe.config
+E:\sgr\Projects1\SMS Application Trial 0.1\SendmessageRcvMsg\obj\Debug\ResolveAssemblyReference.cache
+E:\sgr\Projects1\SMS Application Trial 0.1\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Form1.resources
+E:\sgr\Projects1\SMS Application Trial 0.1\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Properties.Resources.resources
+E:\sgr\Projects1\SMS Application Trial 0.1\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.csproj.GenerateResource.Cache
+E:\Projects1\Security System\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe.config

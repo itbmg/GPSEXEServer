@@ -1,0 +1,122 @@
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\obj\Debug\ResolveAssemblyReference.cache
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Form1.resources
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Properties.Resources.resources
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\obj\Debug\Security System.csproj.GenerateResource.Cache
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\bin\Debug\HomeSecurityDB.mdf
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\bin\Debug\HomeSecurityDB_log.ldf
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe.config
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.pdb
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\bin\Debug\MessageProcessorManager.dll
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\bin\Debug\TCPServerLibrary.dll
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\bin\Debug\SecurityGateway.dll
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\bin\Debug\MessageProcessorManager.pdb
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\bin\Debug\TCPServerLibrary.pdb
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\bin\Debug\SecurityGateway.pdb
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.exe
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.pdb
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\bin\Debug\HouseSettings.dll
+E:\sgr\Projects1\Under Develop\Security System\SendmessageRcvMsg\bin\Debug\HouseSettings.pdb
+E:\sgr\Projects1\Under Develop\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe.config
+E:\sgr\Projects1\Under Develop\Security System Server 0.0.1\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.exe
+E:\sgr\Projects1\Under Develop\Security System Server 0.0.1\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.pdb
+E:\sgr\Projects1\Under Develop\Security System Server 0.0.1\SendmessageRcvMsg\obj\Debug\ResolveAssemblyReference.cache
+E:\sgr\Projects1\Under Develop\Security System Server 0.0.1\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Form1.resources
+E:\sgr\Projects1\Under Develop\Security System Server 0.0.1\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Properties.Resources.resources
+E:\sgr\Projects1\Under Develop\Security System Server 0.0.1\SendmessageRcvMsg\obj\Debug\Security System.csproj.GenerateResource.Cache
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe.config
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\HomeSecurityDB.mdf
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\HomeSecurityDB_log.ldf
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.pdb
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\MessageProcessorManager.dll
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\TCPServerLibrary.dll
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\HouseSettings.dll
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\SecurityGateway.dll
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\MessageProcessorManager.pdb
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\TCPServerLibrary.pdb
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\HouseSettings.pdb
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\SecurityGateway.pdb
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Form1.resources
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Properties.Resources.resources
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\obj\Debug\Security System.csproj.GenerateResource.Cache
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.exe
+E:\Projects1\Security System Server 0.0\Security System Server 0.0.1\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.pdb
+E:\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe.config
+E:\Security System Server 0.0.1\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.exe
+E:\Security System Server 0.0.1\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.pdb
+E:\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\HomeSecurityDB.mdf
+E:\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\HomeSecurityDB_log.ldf
+E:\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe
+E:\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.pdb
+E:\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\MessageProcessorManager.dll
+E:\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\TCPServerLibrary.dll
+E:\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\HouseSettings.dll
+E:\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\SecurityGateway.dll
+E:\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\MessageProcessorManager.pdb
+E:\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\TCPServerLibrary.pdb
+E:\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\HouseSettings.pdb
+E:\Security System Server 0.0.1\SendmessageRcvMsg\bin\Debug\SecurityGateway.pdb
+E:\Security System Server 0.0.1\SendmessageRcvMsg\obj\Debug\ResolveAssemblyReference.cache
+E:\Security System Server 0.0.1\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Form1.resources
+E:\Security System Server 0.0.1\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Properties.Resources.resources
+E:\Security System Server 0.0.1\SendmessageRcvMsg\obj\Debug\Security System.csproj.GenerateResource.Cache
+D:\Security System Server\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe.config
+D:\Security System Server\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.exe
+D:\Security System Server\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.pdb
+D:\Security System Server\SendmessageRcvMsg\bin\Debug\HomeSecurityDB.mdf
+D:\Security System Server\SendmessageRcvMsg\bin\Debug\HomeSecurityDB_log.ldf
+D:\Security System Server\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe
+D:\Security System Server\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.pdb
+D:\Security System Server\SendmessageRcvMsg\bin\Debug\MessageProcessorManager.dll
+D:\Security System Server\SendmessageRcvMsg\bin\Debug\TCPServerLibrary.dll
+D:\Security System Server\SendmessageRcvMsg\bin\Debug\HouseSettings.dll
+D:\Security System Server\SendmessageRcvMsg\bin\Debug\SecurityGateway.dll
+D:\Security System Server\SendmessageRcvMsg\bin\Debug\MessageProcessorManager.pdb
+D:\Security System Server\SendmessageRcvMsg\bin\Debug\TCPServerLibrary.pdb
+D:\Security System Server\SendmessageRcvMsg\bin\Debug\HouseSettings.pdb
+D:\Security System Server\SendmessageRcvMsg\bin\Debug\SecurityGateway.pdb
+D:\Security System Server\SendmessageRcvMsg\obj\Debug\ResolveAssemblyReference.cache
+D:\Security System Server\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Form1.resources
+D:\Security System Server\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Properties.Resources.resources
+D:\Security System Server\SendmessageRcvMsg\obj\Debug\Security System.csproj.GenerateResource.Cache
+D:\Lighting Server\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe.config
+D:\Lighting Server\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.exe
+D:\Lighting Server\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.pdb
+D:\Lighting Server\SendmessageRcvMsg\obj\Debug\ResolveAssemblyReference.cache
+D:\Lighting Server\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Form1.resources
+D:\Lighting Server\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Properties.Resources.resources
+D:\Lighting Server\SendmessageRcvMsg\obj\Debug\Security System.csproj.GenerateResource.Cache
+D:\Lighting Server\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe
+D:\Lighting Server\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.pdb
+D:\Lighting Server\SendmessageRcvMsg\bin\Debug\MessageProcessorManager.dll
+D:\Lighting Server\SendmessageRcvMsg\bin\Debug\TCPServerLibrary.dll
+D:\Lighting Server\SendmessageRcvMsg\bin\Debug\MessageProcessorManager.pdb
+D:\Lighting Server\SendmessageRcvMsg\bin\Debug\TCPServerLibrary.pdb
+D:\all projects\Lighting Server\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe.config
+D:\all projects\Lighting Server\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.exe
+D:\all projects\Lighting Server\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.pdb
+D:\all projects\Lighting Server\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe
+D:\all projects\Lighting Server\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.pdb
+D:\all projects\Lighting Server\SendmessageRcvMsg\bin\Debug\MessageProcessorManager.dll
+D:\all projects\Lighting Server\SendmessageRcvMsg\bin\Debug\TCPServerLibrary.dll
+D:\all projects\Lighting Server\SendmessageRcvMsg\bin\Debug\MessageProcessorManager.pdb
+D:\all projects\Lighting Server\SendmessageRcvMsg\bin\Debug\TCPServerLibrary.pdb
+D:\all projects\Lighting Server\SendmessageRcvMsg\obj\Debug\ResolveAssemblyReference.cache
+D:\all projects\Lighting Server\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Form1.resources
+D:\all projects\Lighting Server\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Properties.Resources.resources
+D:\all projects\Lighting Server\SendmessageRcvMsg\obj\Debug\Security System.csproj.GenerateResource.Cache
+D:\Sagar\GPRS COMM\GPRS Server\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe.config
+D:\Sagar\GPRS COMM\GPRS Server\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.exe
+D:\Sagar\GPRS COMM\GPRS Server\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.pdb
+D:\Sagar\GPRS COMM\GPRS Server\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.exe
+D:\Sagar\GPRS COMM\GPRS Server\SendmessageRcvMsg\bin\Debug\SendmessageRcvMsg.pdb
+D:\Sagar\GPRS COMM\GPRS Server\SendmessageRcvMsg\bin\Debug\MessageProcessorManager.dll
+D:\Sagar\GPRS COMM\GPRS Server\SendmessageRcvMsg\bin\Debug\TCPServerLibrary.dll
+D:\Sagar\GPRS COMM\GPRS Server\SendmessageRcvMsg\bin\Debug\MessageProcessorManager.pdb
+D:\Sagar\GPRS COMM\GPRS Server\SendmessageRcvMsg\bin\Debug\TCPServerLibrary.pdb
+D:\Sagar\GPRS COMM\GPRS Server\SendmessageRcvMsg\obj\Debug\ResolveAssemblyReference.cache
+D:\Sagar\GPRS COMM\GPRS Server\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Form1.resources
+D:\Sagar\GPRS COMM\GPRS Server\SendmessageRcvMsg\obj\Debug\SendmessageRcvMsg.Properties.Resources.resources
+D:\Sagar\GPRS COMM\GPRS Server\SendmessageRcvMsg\obj\Debug\Security System.csproj.GenerateResource.Cache
